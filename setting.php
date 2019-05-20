@@ -16,7 +16,7 @@ $epi=$kn."
 ──▄▀──▄▀▄──▄▀▀──█────█────▀▄─▄▀──
 ──█───█▀█───▀▄──█▀▄──█─▄────█────
 ───▀──▀─▀──▀▀───▀─▀──▀▀▀────▀────
- ".$pth."[ ".$tr."v 1.0".$pth." ][ ".$tr."Calon".$ijo." Konter".$pth." ][".$tr." ref: ".$ijo."TVFG9W".$pth." ]".$t;
-$msg_epi=$ijo."[•] update skrip https://github.com/adidoank/epicash".$t.$pth."[support:".$tr." khairil".$pth."][Kode: ".$ijo."ZAVGFX]".$t;
+ ".$pth."[ ".$tr."v 1.0".$pth." ][ ".$tr."Calon".$ijo." Konter".$pth." ][".$tr." ref: ".$ijo."AFRJWU".$pth." ]".$t;
+$msg_epi=$ijo."[•] Jangan Lupa Nuyul".$t;
 $stat_epi1=true;
 
