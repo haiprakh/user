@@ -1,6 +1,6 @@
 <?php
 /* setting bot */
-$ads=$ijo."    [ Calon Konter ]".$t.$red."\t >> .$t;
+$ads=$ijo."    [ Calon Konter ]".$t;
 
 $donasi=false;
 
